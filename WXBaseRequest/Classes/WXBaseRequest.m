@@ -7,10 +7,10 @@
 //
 
 #import "WXBaseRequest.h"
-#import <WXBaseObject.h>
-#import <WXShareObject.h>
-#import <YYKit.h>
-#import <AFNetworking.h>
+#import <WXBaseKit/WXBaseObject.h>
+#import <WXBaseKit/WXShareObject.h>
+#import <YYKit/YYKit.h>
+#import <AFNetworking/AFNetworking.h>
 
 @implementation WXBaseRequest
 

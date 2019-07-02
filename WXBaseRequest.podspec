@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "WXBaseRequest"                #名称
-  s.version      = "0.0.1"                  #版本号
+  s.version      = "0.0.2"                  #版本号
   s.summary      = "ios网络请求"               #简短介绍
   s.description  = <<-DESC 
                       ios网络请求封装
